@@ -1,0 +1,5 @@
+name: cvc-hotel
+services:
+  - name: web
+    dockerfile_path: Dockerfile
+    http_port: 8080
